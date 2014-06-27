@@ -4,17 +4,17 @@ html, body {
   margin: 0;
   padding: 0;
     background: url('../tile-sets/background.jpg');
-    background-size: 100%;
+    background-size: 150%;
   color: #354b59;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18px; }
 
 body {
-  margin: 80px 0; }
+  margin: 0x 0; }
 
 p.learn {
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 span.tile-text {
