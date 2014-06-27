@@ -4,8 +4,8 @@ html, body {
   margin: 0;
   padding: 0;
     background: url('../tile-sets/background.jpg');
-    background-size: 180%;
-  color: #354b59;
+    background-size: 500%;
+  color: #990000;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18px; }
@@ -25,11 +25,11 @@ span.tile-text {
 
 input {
   display: inline-block;
-  background: #8f7a66;
+  background: #990000;
   border-radius: 3px;
   padding: 0 20px;
   text-decoration: none;
-  color: #f9f6f2;
+  color: #990000;
   height: 40px;
   line-height: 42px;
   cursor: pointer;
@@ -44,9 +44,9 @@ input {
   appearance: none; }
   input[type="text"], input[type="email"] {
     cursor: auto;
-    background: #fcfbf9;
+    background: #990000;
     font-weight: normal;
-    color: #776e65;
+    color: #990000;
     padding: 0 15px; }
     input[type="text"]::-webkit-input-placeholder, input[type="email"]::-webkit-input-placeholder {
       color: #9d948c; }
